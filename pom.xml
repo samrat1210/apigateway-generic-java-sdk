@@ -67,9 +67,9 @@
   </properties>
 
   <scm>
-    <connection>scm:git:git://github.com/rpgreen/apigateway-generic-java-sdk</connection>
-    <developerConnection>scm:git:ssh://github.com:rpgreen/apigateway-generic-java-sdk.git</developerConnection>
-    <url>http://github.com/rpgreen/apigateway-generic-java-sdk/tree/master</url>
+    <connection>scm:git:git://github.com/samrat1210/apigateway-generic-java-sdk</connection>
+    <developerConnection>scm:git:ssh://github.com:samrat1210/apigateway-generic-java-sdk.git</developerConnection>
+    <url>https://github.com/samrat1210/apigateway-generic-java-sdk/tree/master</url>
   </scm>
 
   <distributionManagement>
